@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(155, 117, 67);
+    padding: 10px;
+    margin: 10px;
+}
+.quize{
+    background-color: aliceblue;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
